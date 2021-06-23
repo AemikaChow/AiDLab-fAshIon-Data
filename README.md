@@ -11,6 +11,6 @@ All datasets are provided by fAshIon TEAM @ Laboratory for Artificial Intelligen
 
 Thanks to all members of the data team and participants from the fashion industry for their contributions to these datasets.
 
-【Names not listed in order】: 
+**【Names not listed in order】**: 
 
 Miss Po Yee(Boey) PANG, Miss Wai Lee(Selene) CHONG, Dr. Hee Young KIM, Dr. Lan GE,  
