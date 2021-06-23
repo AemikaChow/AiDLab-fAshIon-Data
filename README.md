@@ -16,7 +16,7 @@ All datasets are provided by fAshIon TEAM @ Laboratory for Artificial Intelligen
 - &nbsp; **EVALUATION 3** 🔖 _attributes manipulation_ 🔖 _compatibility learning_ 🔖 _attributes recognition_ 
 - &nbsp; **fAshIon-DA** 🔖 _domain adoptation_
 - &nbsp; **Beauty U** 🔖 _style transfer_
-- &nbsp; **AESTHETIC 100** 🔖 _compatibility evaluation_
+- &nbsp; **Aesthetic 100** 🔖 _compatibility evaluation_
 
 
 
