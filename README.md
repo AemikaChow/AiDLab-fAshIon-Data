@@ -11,7 +11,7 @@ All datasets are provided by fAshIon TEAM @ Laboratory for Artificial Intelligen
 
 🖤 **QUICK CHECK**
 
-- &nbsp; **FASHIONAI ATTRIBUTES**
+- &nbsp; **FASHIONAI ATTRIBUTES** 🔖 _attributes recognition_
 - &nbsp; **FASHIONAI KEY POINTS**
 - &nbsp; **EVALUATION3**
 - &nbsp; **fAshIon-DA**
