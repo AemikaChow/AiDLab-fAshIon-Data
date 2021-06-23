@@ -8,6 +8,11 @@ All datasets are provided by fAshIon TEAM @ Laboratory for Artificial Intelligen
 - &nbsp;Logic of organizing these datasets is to take more consideration from the fashion side, [CLICK](https://arxiv.org/pdf/2105.03050.pdf) to find more details;
 - &nbsp;For some datasets that need PASSWORD, please send email to xingxingzou@aidlab.hk for further inquiry;
 
+
+🖤 **QUICK CHECK**
+
+
+
 🖤 **ACKNOWLEDGE**
 
 Thanks to all members of the data team, participants from the fashion industry, and our collaborators for their valuable contributions to these datasets.
