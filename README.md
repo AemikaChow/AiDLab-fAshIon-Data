@@ -12,10 +12,10 @@ All datasets are provided by fAshIon TEAM @ Laboratory for Artificial Intelligen
 🖤 **QUICK CHECK**
 
 - &nbsp; **FASHIONAI ATTRIBUTES** 🔖 _attributes recognition_
-- &nbsp; **FASHIONAI KEY POINTS**
-- &nbsp; **EVALUATION3**
-- &nbsp; **fAshIon-DA**
-- &nbsp; **BEAUTY U**
+- &nbsp; **FASHIONAI KEY POINTS** 🔖 _key points recognition_
+- &nbsp; **EVALUATION3** 🔖 _image editing_ 
+- &nbsp; **fAshIon-DA** 🔖 _domain adoptation_
+- &nbsp; **BEAUTY U** 🔖 _style transfer_
 
 
 
