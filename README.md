@@ -13,7 +13,7 @@ All datasets are provided by fAshIon TEAM @ Laboratory for Artificial Intelligen
 
 - &nbsp; **FASHIONAI ATTRIBUTES** 🔖 _attributes recognition_
 - &nbsp; **FASHIONAI KEY POINTS** 🔖 _key points recognition_
-- &nbsp; **EVALUATION3** 🔖 _image editing_ 
+- &nbsp; **EVALUATION3** 🔖 _attributes manipulation_ _compatibility learning_ _attributes recognition_ 
 - &nbsp; **fAshIon-DA** 🔖 _domain adoptation_
 - &nbsp; **BEAUTY U** 🔖 _style transfer_
 
