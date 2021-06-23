@@ -9,7 +9,7 @@ All datasets are provided by fAshIon TEAM @ Laboratory for Artificial Intelligen
 
 🖤 **ACKNOWLEDGE**
 
-Thanks to all members of the data team and participants from the fashion industry for their contributions to these datasets.
+Thanks to all members of the data team and participants from the fashion industry for their valuable contributions to these datasets.
 
 **[Names not listed in order]**
 
