@@ -11,11 +11,11 @@ All datasets are provided by fAshIon TEAM @ Laboratory for Artificial Intelligen
 
 🖤 **QUICK CHECK**
 
-- &nbsp; **FASHIONAI ATTRIBUTES** 🔖 _attributes recognition_
-- &nbsp; **FASHIONAI KEY POINTS** 🔖 _key points recognition_
-- &nbsp; **EVALUATION3** 🔖 _attributes manipulation_ 🔖 _compatibility learning_ 🔖 _attributes recognition_ 
+- &nbsp; **FashionAI Attributes** 🔖 _attributes recognition_
+- &nbsp; **FashionAI Key Points** 🔖 _key points recognition_
+- &nbsp; **EVALUATION 3** 🔖 _attributes manipulation_ 🔖 _compatibility learning_ 🔖 _attributes recognition_ 
 - &nbsp; **fAshIon-DA** 🔖 _domain adoptation_
-- &nbsp; **BEAUTY U** 🔖 _style transfer_
+- &nbsp; **Beauty U** 🔖 _style transfer_
 - &nbsp; **AESTHETIC 100** 🔖 _compatibility evaluation_
 
 
