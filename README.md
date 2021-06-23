@@ -8,3 +8,7 @@ All datasets are provided by fAshIon TEAM @ Laboratory for Artificial Intelligen
 - &nbsp;**Print** (pattern, texture): the surface design of a garment, *e.g.* checks, dotted *etc*;
 - &nbsp;**Neckline** (collar shape, collar): the design in the neck region of a garment, *e.g.* V-neck, lapel *etc*; 
 - &nbsp;**Design details** (structures, style): designs which can be used in anywhere of a garment, *e.g.* frilly, ruffled *etc*;
+
+🖤 **ACKNOWLEDGE**
+Thanks to all members of the data team and participants from the fashion industry for their contributions to these datasets.
+【Names not listed in order】: 
