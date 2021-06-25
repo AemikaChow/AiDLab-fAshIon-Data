@@ -7,11 +7,9 @@
 
 🖤 **Brief Intro**
 
-This is a outfit dataset based on the data including PolyVore outfit and FashionVC data.
+This is a outfit dataset. The orginal source of outfits are collected from [PolyVore](https://github.com/xthan/polyvore-dataset) and [FashionVC](https://dl.acm.org/doi/10.1145/3123266.3123314). Different from the previous outfit datasets, we annotated the outfit with evaluation labels as Good, Normal, and Bad. Additionally, we labeled the attributes of all the fashion items.
 
-
-
-![图片1.png](https://i.loli.net/2021/06/25/Gt7fiq4hH2bcUBD.png)
+![图片5.png](https://i.loli.net/2021/06/25/1peogM8JbR9skIm.png)
 
 Please cite the following reference paper when this dataset is used in any academic and research reports.
 
