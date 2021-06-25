@@ -21,6 +21,8 @@ To better demonstrate the attributes labeled in this dataset, we here take shoes
 
 ![图片10.jpg](https://i.loli.net/2021/06/25/svfzoalBV3L6mrT.jpg)
 
+![图片11.png](https://i.loli.net/2021/06/25/LpzUrsR6TZklQve.png)
+
 Please cite the following reference paper when this dataset is used in any academic and research reports.
 
 🖤 **Reference**
