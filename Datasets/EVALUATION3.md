@@ -13,9 +13,9 @@ This is a outfit dataset. The orginal source of outfits are collected from [Poly
 
 This means that the EVALUATION3 dataset contains the evaluation labels (good, normal, bad) and its related reasons (color, print, material, silhouette, and designs) attributes labels of each fashion items (including Top(U), bottom(B), bag(G), and shoes(S)). We summary the details of EVALUATION3 in the following Table:
 
-| Numbers  | Outfits | Shoes | Bags | Attributes of U |   Attributes of B | Attributes of G | Attributes of S | Evaluation | Reason |
+|  - | Outfits | Shoes | Bags | Attributes of U |   Attributes of B | Attributes of G | Attributes of S | Evaluation | Reason |
 |:---------:|:-------:|:-------:|:-------:|:--------:|:------:|:------:|:--------:|:------:|:--------:|
-| -  | 34,479 | 24,387 | 24,282 | 82  |   45 |   42 |   47 | 3 |   5 |
+| Numbers  | 34,479 | 24,387 | 24,282 | 82  |   45 |   42 |   47 | 3 |   5 |
 
 To better demonstrate the attributes labeled in this dataset, we here take shoes as an example. Followed the logic adopted in FashionAI, we first identify the characteristics (attribute dimension) of distinguishing shoes. For example, Heel Height, Heel Type, Toe Box, etc. Then, we investigate the different designs in each attribute dimension and carefully define the attribute values.
 
