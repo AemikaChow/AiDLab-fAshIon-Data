@@ -4,6 +4,7 @@
 🖤 **Download**
 
 🖤 **Brief Intro**
+This is a fine-grained fashion attributes dataset. We organize fashion attributes in a hierarchical structure.
 
 [Here](https://tianchi.aliyun.com/competition/entrance/231649/information?lang=en-us) to find more details.
 
