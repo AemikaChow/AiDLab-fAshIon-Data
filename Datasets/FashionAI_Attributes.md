@@ -7,11 +7,12 @@ You may kindly obtain the data by logging in to the TIANCHI platform (Choosing t
 
 🖤 **Brief Intro**
 
-This is a fine-grained fashion attributes dataset. We organize fashion attributes in a hierarchical structure.
+This is a fine-grained fashion attributes dataset. We organize fashion attributes in a hierarchical structure. This dataset covering 8 fashion attribute dimensions including high neck, neckline, collar, lapel, sleeve length, skirt length, trouser length, Top length. Recognition of each attribute dimension can be regarded as a multi-classes classification task. After unzipping the file, you are expected to obtain two folders (Image and Label). We visualize these two folders as follow:
+
 
 ![图片1.png](https://i.loli.net/2021/06/25/B7zQFrTUa2HOp4L.png)
 
-[Here](https://tianchi.aliyun.com/competition/entrance/231649/information?lang=en-us) to find more details.
+[Here](https://tianchi.aliyun.com/competition/entrance/231649/information?lang=en-us) to find more details. Please cite the following reference paper when this dataset is used in any academic and research reports.
 
 🖤 **Reference**
 
