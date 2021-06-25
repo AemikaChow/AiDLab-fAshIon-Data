@@ -15,7 +15,7 @@ This means that the EVALUATION3 dataset contains the evaluation labels, attribut
 
 | Numbers  | Outfits | Shoes | Bags | Attributes of Top |   Attributes of Bottom | Attributes of Bag | Attributes of Shoes |
 |:---------:|:-------:|:-------:|:-------:|:--------:|:------:|:------:|:--------:|
-| R-50-C5     | caffe | Y | 1x      | 8.3      |   37.5  |
+| -  | 34,479 | 24,387 | 24,282 | 82  |   45 |   42 |   47 |
 
 
 ![图片10.jpg](https://i.loli.net/2021/06/25/svfzoalBV3L6mrT.jpg)
