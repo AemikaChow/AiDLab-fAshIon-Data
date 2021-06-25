@@ -17,6 +17,7 @@ This means that the EVALUATION3 dataset contains the evaluation labels, attribut
 |:---------:|:-------:|:-------:|:-------:|:--------:|:------:|:------:|:--------:|
 | -  | 34,479 | 24,387 | 24,282 | 82  |   45 |   42 |   47 |
 
+To better demonstrate the attributes that labeled in this dataset, we here take shoes as an example.
 
 ![图片10.jpg](https://i.loli.net/2021/06/25/svfzoalBV3L6mrT.jpg)
 
