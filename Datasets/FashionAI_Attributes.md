@@ -3,6 +3,8 @@
 
 🖤 **Download**
 
+You may kindly obtain the data by logging in to the TIANCHI platform (Choosing the international version, then register a personal account and sign the agreement. You will be supposed to access the data successfully). If you have further questions, feel free to reach out~
+
 🖤 **Brief Intro**
 
 This is a fine-grained fashion attributes dataset. We organize fashion attributes in a hierarchical structure.
