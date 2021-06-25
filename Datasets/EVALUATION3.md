@@ -11,7 +11,9 @@ This is a outfit dataset. The orginal source of outfits are collected from [Poly
 
 ![图片5.png](https://i.loli.net/2021/06/25/1peogM8JbR9skIm.png)
 
-| Backbone  | Style   | Epoch | Lr schd | Mem (GB) |   box AP | Config | Download |
+This means that the EVALUATION3 dataset contains the evaluation labels, attributes labels of each fashion items (including Top(U), bottom(B), bag(G), and shoes(S)). We summary the details of EVALUATION3 in the following Table:
+
+| Numbers  | Outfits | Shoes | Bags | Attributes of Top |   Attributes of Bottom | Attributes of Bag | Attributes of Shoes |
 |:---------:|:-------:|:-------:|:-------:|:--------:|:------:|:------:|:--------:|
 | R-50-C5     | caffe | Y | 1x      | 8.3      |   37.5  |
 
