@@ -7,6 +7,8 @@
 
 This is a fine-grained fashion attributes dataset. We organize fashion attributes in a hierarchical structure.
 
+![图片1.png](https://i.loli.net/2021/06/25/B7zQFrTUa2HOp4L.png)
+
 [Here](https://tianchi.aliyun.com/competition/entrance/231649/information?lang=en-us) to find more details.
 
 🖤 **Reference**
