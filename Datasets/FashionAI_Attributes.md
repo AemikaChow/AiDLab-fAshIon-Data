@@ -3,7 +3,9 @@
 
 🖤 **Download**
 
-🖤 **Details**
+🖤 **Brief Intro**
+
+[Here](https://tianchi.aliyun.com/competition/entrance/231649/information?lang=en-us) to find more details.
 
 🖤 **Reference**
 
