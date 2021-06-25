@@ -11,6 +11,10 @@ This is a outfit dataset. The orginal source of outfits are collected from [Poly
 
 ![图片5.png](https://i.loli.net/2021/06/25/1peogM8JbR9skIm.png)
 
+Excepting to 
+
+![图片6.png](https://i.loli.net/2021/06/25/wQya6iJrkYHjUEK.png)
+
 Please cite the following reference paper when this dataset is used in any academic and research reports.
 
 🖤 **Reference**
