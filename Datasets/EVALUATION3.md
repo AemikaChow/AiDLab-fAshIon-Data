@@ -11,7 +11,10 @@ This is a outfit dataset. The orginal source of outfits are collected from [Poly
 
 ![图片5.png](https://i.loli.net/2021/06/25/1peogM8JbR9skIm.png)
 
-Excepting to 
+| Backbone  | Style   | Epoch | Lr schd | Mem (GB) |   box AP | Config | Download |
+|:---------:|:-------:|:-------:|:-------:|:--------:|:------:|:------:|:--------:|
+| R-50-C5     | caffe | Y | 1x      | 8.3      |   37.5  |
+
 
 ![图片10.jpg](https://i.loli.net/2021/06/25/svfzoalBV3L6mrT.jpg)
 
