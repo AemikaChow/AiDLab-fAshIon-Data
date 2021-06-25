@@ -15,7 +15,7 @@ Datasets provided by fAshIon TEAM @ Laboratory for Artificial Intelligence in De
 - &nbsp; **FashionAI Key Points** 🔖 _key points recognition_
 - &nbsp; **EVALUATION3** 🔖 _attributes manipulation_ 🔖 _compatibility learning_ 🔖 _attributes recognition_ 
 - &nbsp; **fAshIon-DA** 🔖 _domain adoptation_
-- &nbsp; **Beauty U** 🔖 _style transfer_ 【**COMING SOON** 🍑】
+- &nbsp; **Beauty U** 🔖 _style transfer_ 【🍑 _coming soon ~ _】
 - &nbsp; **Print14** 🔖 _print recognition_
 - &nbsp; **Aesthetic 100** 🔖 _compatibility evaluation_
 
