@@ -7,7 +7,7 @@
 
 🖤 **Reference**
 
-**FashionAI: A Hierarchical Dataset for Fashion Understanding**[[pdf]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/FFSS-USAD/Zou_FashionAI_A_Hierarchical_Dataset_for_Fashion_Understanding_CVPRW_2019_paper.pdf)
+**FashionAI: A Hierarchical Dataset for Fashion Understanding** [[pdf]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/FFSS-USAD/Zou_FashionAI_A_Hierarchical_Dataset_for_Fashion_Understanding_CVPRW_2019_paper.pdf)
 
 ```bib
 @inproceedings{zou2019fashionai,
