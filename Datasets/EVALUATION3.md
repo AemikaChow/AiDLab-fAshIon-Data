@@ -7,7 +7,7 @@
 
 🖤 **Brief Intro**
 
-This is a outfit dataset. The orginal source of outfits are collected from [PolyVore](https://github.com/xthan/polyvore-dataset). Different from the previous outfit datasets, we annotated the outfit with evaluation labels as Good, Normal, and Bad. Additionally, we labeled the attributes of all the fashion items.
+This is a outfit dataset. The orginal source of outfits are collected from [PolyVore](https://github.com/xthan/polyvore-dataset) and [FashionVC](https://github.com/SDU-MIMA/SHDCH). Different from the previous outfit datasets, we annotated the outfit with evaluation labels as Good, Normal, and Bad. Additionally, we labeled the attributes of all the fashion items.
 
 ![图片5.png](https://i.loli.net/2021/06/25/1peogM8JbR9skIm.png)
 
