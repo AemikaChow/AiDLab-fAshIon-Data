@@ -13,7 +13,7 @@ Datasets provided by fAshIon TEAM @ Laboratory for Artificial Intelligence in De
 
 - &nbsp; **FashionAI Attributes** 🔖 _attributes recognition_ 【🍒 _[click here](https://github.com/AemikaChow/AiDLab-fAshIon-Data/blob/main/Datasets/FashionAI_Attributes.md)_】
 - &nbsp; **FashionAI Key Points** 🔖 _key points recognition_ 【🍒 _[click here](https://github.com/AemikaChow/AiDLab-fAshIon-Data/blob/main/Datasets/FashionAI_Keypoints.md)_】
-- &nbsp; **EVALUATION3** 🔖 _attributes manipulation_ 🔖 _compatibility learning_ 🔖 _attributes recognition_ 【🍒 _[click here](https://github.com/AemikaChow/AiDLab-fAshIon-Data/blob/main/Datasets/FashionAI_Attributes.md)_】
+- &nbsp; **EVALUATION3** 🔖 _attributes manipulation_ 🔖 _compatibility learning_ 🔖 _attributes recognition_ 【🍒 _[click here](https://github.com/AemikaChow/AiDLab-fAshIon-Data/blob/main/Datasets/EVALUATION3)_】
 - &nbsp; **fAshIon-DA** 🔖 _domain adoptation_ 【🍒 _[click here](https://github.com/AemikaChow/AiDLab-fAshIon-Data/blob/main/Datasets/fAshIon-DA)_】
 - &nbsp; **Beauty U** 🔖 _style transfer_ 【🍑 _coming soon_】
 - &nbsp; **Print14** 🔖 _print recognition_ 【🍒 _[click here](https://github.com/AemikaChow/AiDLab-fAshIon-Data/blob/main/Datasets/Print14)_】
