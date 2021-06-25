@@ -13,7 +13,7 @@ This is a outfit dataset. The orginal source of outfits are collected from [Poly
 
 Excepting to 
 
-![图片7.jpg](https://i.loli.net/2021/06/25/Vl9O4x5KBeLWabJ.jpg)
+![图片9.jpg](https://i.loli.net/2021/06/25/9uXREndqDJwj8pA.jpg)
 
 Please cite the following reference paper when this dataset is used in any academic and research reports.
 
