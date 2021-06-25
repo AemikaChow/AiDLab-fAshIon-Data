@@ -6,7 +6,6 @@ Datasets provided by fAshIon TEAM @ Laboratory for Artificial Intelligence in De
 
 - &nbsp;Images are collected from the Internet or created by us; Labels in these datasets are all manually annotated;
 - &nbsp;Logic of organizing these datasets is to take more consideration from the fashion side, [CLICK](https://arxiv.org/pdf/2105.03050.pdf) to find more details;
-- &nbsp;The datasets are intended for research purposes only and as such cannot be used commercially. In addition, please cite the reference when the dataset is used in any academic and research reports.
 - &nbsp;For some datasets that need PASSWORD, please send email to xingxingzou@aidlab.hk for further inquiry;
 
 
