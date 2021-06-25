@@ -11,7 +11,7 @@ Datasets provided by fAshIon TEAM @ Laboratory for Artificial Intelligence in De
 
 🖤 **QUICK CHECK**
 
-- &nbsp; **FashionAI Attributes** 🔖 _attributes recognition_
+- &nbsp; **FashionAI Attributes** 🔖 _attributes recognition_ 【🍒 _[click here]_】
 - &nbsp; **FashionAI Key Points** 🔖 _key points recognition_
 - &nbsp; **EVALUATION3** 🔖 _attributes manipulation_ 🔖 _compatibility learning_ 🔖 _attributes recognition_ 
 - &nbsp; **fAshIon-DA** 🔖 _domain adoptation_
