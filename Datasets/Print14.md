@@ -3,7 +3,7 @@
 
 🖤 **Download**
 
-🍒 [[LINK]]()
+🍒 [[DOWNLOAD]]()
 
 🖤 **Brief Intro**
 
