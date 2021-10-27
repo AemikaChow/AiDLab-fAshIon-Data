@@ -26,4 +26,4 @@ Thanks to all members of the data team, participants from the fashion industry, 
 
 **[Names not listed in order]**
 
-Miss Po Yee(Boey) PANG, Miss Wai Lee(Selene) CHONG, Dr. Hee Young KIM, Dr. Lan GE,  
+Po Yee(Boey) PANG, Wai Lee(Selene) CHONG, Hee Young KIM, Lan GE, Wan Yan(Priscilla) YAM, Ming Kin(Kenny) KOO, Kit Ting(Kitty) CHOI, Peini Yu, Linxi Zhu, Hua Hui, Liner Shen, Linyun Yu, Tian Wang, Xiaoqin Li, Yantong Chen, Zixuan He, Hei Man(Samantha) SHUM, Kwan Yi(Frances) CHUNG.
