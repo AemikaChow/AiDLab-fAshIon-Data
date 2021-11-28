@@ -6,6 +6,7 @@ Datasets provided by fAshIon TEAM @ Laboratory for Artificial Intelligence in De
 
 - &nbsp;Images are collected from the Internet or created by us; Labels in these datasets are all manually annotated;
 - &nbsp;For some datasets that need PASSWORD, please send email to xingxingzou@aidlab.hk for further inquiry;
+- &nbsp;For the detailed description in Chinese, you could search "又长尾巴了怎么办" of WeChat Official Account;
 
 
 🖤 **QUICK CHECK**
