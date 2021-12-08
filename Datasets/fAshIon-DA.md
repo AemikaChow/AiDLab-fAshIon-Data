@@ -7,7 +7,7 @@
 
 🖤 **Brief Intro**
 
-This is a cross-domain dataset with single-item fashion images. It covering three different expression formats, i.e., product, sketch, drawing, of fashion single items. After unzipping the file, you are expected to obtain 3 folders. We visualize the sample as follow:
+This is a cross-domain dataset with single-item fashion images. It covers three different format types, i.e., product, sketch, drawing, of single fashion items. After unzipping the file, you are expected to obtain three folders. We visualize the sample as follow:
 
 
 ![图片4.png](https://i.loli.net/2021/06/25/zgNQYUAtS5xDuc3.png)
