@@ -3,21 +3,21 @@
 
 🖤 **Download**
 
-🍒 [[DOWNLOAD]]()
+🍒 [[DOWNLOAD]](https://hkaidlab-my.sharepoint.com/:u:/g/personal/xingxingzou_aidlab_hk/Ec7Rbd_hiIxMuZSfQJ8J5ZMBohVRCkrGO0ayIFvwb8I7GQ?e=teDTTz)
 
 🖤 **Brief Intro**
 
-This is a outfit dataset. The orginal source of outfits are collected from [PolyVore](https://github.com/xthan/polyvore-dataset) and [FashionVC](https://github.com/SDU-MIMA/SHDCH). Different from the previous outfit datasets, we annotated the outfit with evaluation labels as Good, Normal, and Bad. Additionally, we labeled the attributes of all the fashion items.
+This is an outfit dataset. The original source of outfits is collected from [Maryland PolyVore](https://github.com/xthan/polyvore-dataset) and [FashionVC](https://github.com/SDU-MIMA/SHDCH). Unlike the previous outfit datasets, we annotated the outfit with evaluation labels as Good, Normal, and Bad. Additionally, we labelled the attributes of all the fashion items.
 
 ![图片5.png](https://i.loli.net/2021/06/25/1peogM8JbR9skIm.png)
 
-This means that the EVALUATION3 dataset contains the evaluation labels (good, normal, bad) and its related reasons (color, print, material, silhouette, and designs) attributes labels of each fashion items (including Top(U), bottom(B), bag(G), and shoes(S)). We summary the details of EVALUATION3 in the following Table:
+This means that the EVALUATION3 dataset contains the evaluation labels (Good, Normal, Bad) and its related reasons (color, print, material, silhouette, and designs) attributes labels of each fashion item (including Top(U), bottom(B), bag(G), and shoes(S)). We summary the details of EVALUATION3 in the following Table:
 
 |  - | Outfits | Shoes | Bags | Attribute value of Top |   Attribute value of Bottom | Attribute value of Bags | Attribute value of Shoes | Evaluation | Reason |
 |:---------:|:-------:|:-------:|:-------:|:--------:|:------:|:------:|:--------:|:------:|:--------:|
 | Numbers  | 34,479 | 24,387 | 24,282 | 82  |   45 |   42 |   47 | 3 |   5 |
 
-To better demonstrate the attributes labeled in this dataset, we here take shoes as an example. Followed the logic adopted in FashionAI, we first identify the characteristics (attribute dimension) of distinguishing shoes. For example, Heel Height, Heel Type, Toe Box, etc. Then, we investigate the different designs in each attribute dimension and carefully define the attribute values.
+To better demonstrate the attributes labelled in this dataset, we take shoes as an example. Following the logic adopted in FashionAI, we first identify the characteristics (attribute dimension) of distinguishing shoes. For example, Heel Height, Heel Type, Toe Box, etc. Then, we investigate the different designs in each attribute dimension and carefully define the attribute values.
 
 ![图片10.jpg](https://i.loli.net/2021/06/25/svfzoalBV3L6mrT.jpg)
 
