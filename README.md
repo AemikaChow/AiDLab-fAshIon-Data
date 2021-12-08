@@ -1,11 +1,11 @@
 # AiDLab fAshIon DATA  🕴️ 💼
 
-Datasets provided by fAshIon TEAM @ Laboratory for Artificial Intelligence in Design (AiDLab) for **ACADEMIC USAGE ONLY**.
+Datasets provided by fAshIon TEAM @ Laboratory for Artificial Intelligence in Design (AiDLab) for **ACADEMIC USAGE ONLY**. If you want to use them in the commercial products, please kindly send an email to xingxingzou@aidlab.hk for further inquiry.
 
 🖤 **KEY NOTEs**
 
-- &nbsp;Images are collected from the Internet or created by us; Labels in these datasets are all manually annotated;
-- &nbsp;For some datasets that need PASSWORD, please send email to xingxingzou@aidlab.hk for further inquiry;
+- &nbsp;Images are collected from the Internet or created by ourselves; Labels in these datasets are all manually annotated;
+- &nbsp;For some datasets that need PASSWORD, please send an email to xingxingzou@aidlab.hk for further inquiry;
 - &nbsp;For the detailed description in Chinese, you could search "又长尾巴了怎么办" of WeChat Official Account;
 
 
