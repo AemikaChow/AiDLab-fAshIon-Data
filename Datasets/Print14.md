@@ -3,11 +3,11 @@
 
 🖤 **Download**
 
-🍒 [[DOWNLOAD]]()
+🍒 [[DOWNLOAD]](https://hkaidlab-my.sharepoint.com/:u:/g/personal/xingxingzou_aidlab_hk/EVbF8lYAF-ZKkb2Ip3xIDSYByaVX9N9h5uV4hmeZhrNAGA?e=VOaFwf)
 
 🖤 **Brief Intro**
 
-This is a fashion print dataset. We group the prints of clothing into 14 types including stripe, dotted, allover, camouflage, checks, abstract, floral, etc. After unzipping the file, you are expected to obtain 14 folders. We visualize sample as follow:
+This is a fashion print dataset. We group the prints into 14 types: stripe, dotted, allover, camouflage, checks, abstract, floral, etc. After unzipping the file, you are expected to obtain 14 folders. We visualize the samples as follow:
 
 
 ![图片1.png](https://i.loli.net/2021/06/25/Gt7fiq4hH2bcUBD.png)
