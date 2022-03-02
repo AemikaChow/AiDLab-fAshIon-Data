@@ -19,7 +19,7 @@ Datasets provided by fAshIon TEAM @ Laboratory for Artificial Intelligence in De
 - &nbsp; **fAshIon-DA** 🔖 _domain adoptation_ 【_[click here](https://github.com/AemikaChow/AiDLab-fAshIon-Data/blob/main/Datasets/fAshIon-DA.md)_】
 - &nbsp; **Print14** 🔖 _print recognition_ 【_[click here](https://github.com/AemikaChow/AiDLab-fAshIon-Data/blob/main/Datasets/Print14.md)_】
 - &nbsp; **Beauty U** 🔖 _style transfer_ 【_coming soon_】
-- &nbsp; **Aesthetic 100** 🔖 _aesthetic ability evaluation_ 【_coming soon_】
+- &nbsp; **Aesthetic 100** 🔖 _aesthetic ability evaluation for fashion compatibility learning_ 【_[click here](https://github.com/AemikaChow/AiDLab-fAshIon-Data/blob/main/Datasets/A100.md)_】
 
 
 
