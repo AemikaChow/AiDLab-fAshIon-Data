@@ -12,9 +12,10 @@ This is a fashion print dataset. We group the prints into 14 types: stripe, dott
 
 ![图片1.png](https://i.loli.net/2021/06/25/Gt7fiq4hH2bcUBD.png)
 
-Please cite the following reference paper when this dataset is used in any academic and research reports.
 
 🖤 **Reference**
+
+Please cite the following reference paper when this dataset is used in any academic and research reports.
 
 **Regularizing Reasons for Outfit Evaluation with Gradient Penalty** [[pdf]](https://arxiv.org/pdf/2002.00460v1.pdf)
 
