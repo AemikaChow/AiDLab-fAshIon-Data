@@ -12,9 +12,11 @@ This is a fashion keypoints dataset. We define fashion key points according to t
 
 ![图片2.png](https://i.loli.net/2021/06/25/pVNyusdlvIzAwi4.png)
 
-[Here](https://tianchi.aliyun.com/competition/entrance/231648/information) to find more details. Please cite the following reference paper when this dataset is used in any academic and research reports.
+[Here](https://tianchi.aliyun.com/competition/entrance/231648/information) to find more details. 
 
 🖤 **Reference**
+
+Please cite the following reference paper when this dataset is used in any academic and research reports.
 
 **FashionAI: A Hierarchical Dataset for Fashion Understanding** [[pdf]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/FFSS-USAD/Zou_FashionAI_A_Hierarchical_Dataset_for_Fashion_Understanding_CVPRW_2019_paper.pdf)
 
