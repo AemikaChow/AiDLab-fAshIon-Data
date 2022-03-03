@@ -25,9 +25,10 @@ After unzipping the file, you are expected to obtain fashion data like this belo
 
 ![图片11.png](https://i.loli.net/2021/06/25/LpzUrsR6TZklQve.png)
 
-Please cite the following reference paper when this dataset is used in any academic and research reports.
 
 🖤 **Reference**
+
+Please cite the following reference paper when this dataset is used in any academic and research reports.
 
 **Regularizing Reasons for Outfit Evaluation with Gradient Penalty** [[pdf]](https://arxiv.org/pdf/2002.00460v1.pdf)
 
