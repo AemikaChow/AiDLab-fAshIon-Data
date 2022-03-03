@@ -6,7 +6,7 @@ Datasets provided by fAshIon TEAM @ Laboratory for Artificial Intelligence in De
 
 - &nbsp;Images are collected from the Internet or created by ourselves; Labels in these datasets are all manually annotated;
 - &nbsp;For some datasets that need PASSWORD, please send an email to xingxingzou@aidlab.hk for further inquiry;
-- 
+
 
 🖤 **QUICK CHECK**
 
