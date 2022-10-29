@@ -3,7 +3,7 @@
 
 🖤 **Download**
 
-🍒 [[DOWNLOAD]]()
+🍒 [[DOWNLOAD]](https://hkaidlab-my.sharepoint.com/:u:/g/personal/xingxingzou_aidlab_hk/EQF9MelUfMpPli3DALvZnT0B8XNNsuW8jo0lzDTbXRtAew?e=FeMqOC)
 
 🖤 **Brief Intro**
 
@@ -24,6 +24,15 @@ Please cite the following reference paper when this dataset is used in any acade
 }
 ```
 
-**How Good Is Aesthetic Ability of a Fashion Model?** [[pdf]]()
+**How Good Is Aesthetic Ability of a Fashion Model?** [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zou_How_Good_Is_Aesthetic_Ability_of_a_Fashion_Model_CVPR_2022_paper.pdf)
 
+```bib
+@inproceedings{zou2022good,
+  title={How Good Is Aesthetic Ability of a Fashion Model?},
+  author={Zou, Xingxing and Pang, Kaicheng and Zhang, Wen and Wong, Waikeung},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={21200--21209},
+  year={2022}
+}
+```
 
