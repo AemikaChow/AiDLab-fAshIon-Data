@@ -18,8 +18,8 @@ Datasets provided by fAshIon TEAM @ Laboratory for Artificial Intelligence in De
 - &nbsp; **Beauty U** 🔖 _style transfer_ 【_coming soon_】
 - &nbsp; **Aesthetic 100** 🔖 _aesthetic ability evaluation for fashion compatibility learning_ 【_[click here](https://github.com/AemikaChow/AiDLab-fAshIon-Data/blob/main/Datasets/A100.md)_】
 - &nbsp; **O4U** 🔖 _personal fashion compatibility learning_ 【_[click here](https://github.com/AemikaChow/AiDLab-fAshIon-Data/blob/main/Datasets/O4U.md)_】
- <br />
 - &nbsp; **CLOTH4D** 🔖 _clothed human reconstruction_ 【_coming soon_】
+<br />
 
 
 - &nbsp; **Cleaned Maryland** 🔖 _compatibility learning_ 🔖 _outfit generation_ 【_[click here](https://github.com/AemikaChow/AiDLab-fAshIon-Data/blob/main/Datasets/cleaned-maryland.md)_】
