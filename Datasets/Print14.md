@@ -3,7 +3,7 @@
 
 🖤 **Download**
 
-🍒 [[DOWNLOAD]](https://hkaidlab-my.sharepoint.com/:u:/g/personal/xingxingzou_aidlab_hk/EVbF8lYAF-ZKkb2Ip3xIDSYByaVX9N9h5uV4hmeZhrNAGA?e=VOaFwf)
+🍒 [[DOWNLOAD]](https://polyuit-my.sharepoint.com/:u:/g/personal/xingxzou_polyu_edu_hk/EecRFqJRqqJLos0hZ-KqG7ABe4sN8Zu1yvVGI3ATFjUqXQ?e=N8yCX2)
 
 🖤 **Brief Intro**
 
