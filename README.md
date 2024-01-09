@@ -1,6 +1,6 @@
 # AiDLab fAshIon DATA  🕴️ 💼
 
-Datasets provided by fAshIon TEAM @ Laboratory for Artificial Intelligence in Design (AiDLab) for **ACADEMIC USAGE ONLY**. If you want to use them in the commercial products, please kindly send an email to xingxingzou@aidlab.hk for further inquiry.
+Datasets provided by fAshIon TEAM @ Laboratory for Artificial Intelligence in Design (AiDLab) for **ACADEMIC USAGE ONLY**. If you want to use them in the commercial products, please kindly send an email to xingxing.zou@polyu.edu.hk for further inquiry.
 
 🖤 **KEY NOTEs**
 
