@@ -1,4 +1,4 @@
-#fAshIon DATA  🕴️ 💼
+# fAshIon DATA  🕴️ 💼
 
 Datasets provided by fAshIon TEAM for **ACADEMIC USAGE ONLY**. If you want to use them in commercial products, please kindly send an email to xingxing.zou@polyu.edu.hk for further inquiry.
 
