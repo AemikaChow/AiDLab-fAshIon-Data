@@ -3,7 +3,7 @@
 
 🖤 **Download**
 
-🍒 [[DOWNLOAD]](https://polyuit-my.sharepoint.com/:f:/g/personal/xingxzou_polyu_edu_hk/Ept5MVR_5cBIgaT-4TS6PlUBy1V-YtG6Bo1jXBoI9f9tsg?e=dogBcn)
+🍒 [[DOWNLOAD]](https://polyuit-my.sharepoint.com/:u:/g/personal/xingxzou_polyu_edu_hk/ERZywzt1zEdFuLktparpceoBoD_N_GaW2dD_noifl7EbNw?e=n3BST0)
 
 🖤 **Brief Intro**
 
