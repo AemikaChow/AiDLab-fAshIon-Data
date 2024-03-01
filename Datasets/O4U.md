@@ -19,6 +19,10 @@ Please cite the following reference paper when this dataset is used in any acade
 **Dress Well via Fashion Cognitive Learning** [[pdf]]()
 
 ```bib
-
+@article{pang2022dress,
+  title={Dress Well via Fashion Cognitive Learning},
+  author={Pang, Kaicheng and Zou, Xingxing and Wong, Waikeung},
+  year={2022}
+}
 ```
 
