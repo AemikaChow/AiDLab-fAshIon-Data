@@ -16,7 +16,7 @@ We introduce **O4U** (Outfit for U) to implemente Fashion Cognitive Learning for
 
 Please cite the following reference paper when this dataset is used in any academic and research reports.
 
-**Dress Well via Fashion Cognitive Learning** [[pdf]]()
+**Dress Well via Fashion Cognitive Learning** [[pdf]](https://bmvc2022.mpi-inf.mpg.de/0251.pdf)
 
 ```bib
 @article{pang2022dress,
