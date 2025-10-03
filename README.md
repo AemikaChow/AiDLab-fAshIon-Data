@@ -19,7 +19,7 @@ Datasets provided by fAshIon TEAM for **ACADEMIC USAGE ONLY**. If you want to us
 - &nbsp; **Aesthetic 100** 🔖 _aesthetic ability evaluation for fashion compatibility learning_ 【_[click here](https://github.com/AemikaChow/AiDLab-fAshIon-Data/blob/main/Datasets/A100.md)_】
 - &nbsp; **O4U** 🔖 _personal fashion compatibility learning_ 【_[click here](https://github.com/AemikaChow/AiDLab-fAshIon-Data/blob/main/Datasets/O4U.md)_】
 - &nbsp; **CLOTH4D** 🔖 _clothed human reconstruction_ 【_[click here](https://github.com/AemikaChow/CLOTH4D)_】
-- &nbsp; **StylishGAN** 🔖 _fashion illustration translation_ 【_[click here](https://github.com/AemikaChow/CLOTH4D](https://github.com/AemikaChow/AiDLab-fAshIon-Data/edit/main/Datasets/StylishGAN.md)_】
+- &nbsp; **StylishGAN** 🔖 _fashion illustration translation_ 【_[click here](https://github.com/AemikaChow/AiDLab-fAshIon-Data/edit/main/Datasets/StylishGAN.md)_】
 <br />
 
 
