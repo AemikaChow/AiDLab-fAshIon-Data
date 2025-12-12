@@ -20,6 +20,8 @@ Datasets provided by fAshIon TEAM for **ACADEMIC USAGE ONLY**. If you want to us
 - &nbsp; **O4U** 🔖 _personal fashion compatibility learning_ 【_[click here](https://github.com/AemikaChow/AiDLab-fAshIon-Data/blob/main/Datasets/O4U.md)_】
 - &nbsp; **CLOTH4D** 🔖 _clothed human reconstruction_ 【_[click here](https://github.com/AemikaChow/CLOTH4D)_】
 - &nbsp; **StylishGAN** 🔖 _fashion illustration translation_ 【_[click here](https://github.com/AemikaChow/AiDLab-fAshIon-Data/edit/main/Datasets/StylishGAN.md)_】
+- &nbsp; **SC-artext** 🔖 _graphic design_ 🔖 _artistic text rendering_【_[click here](https://github.com/ArtmeScienceLab/FonTS)_】
+- &nbsp; **AFED** 🔖 _fine grained attributes editing_ 【_[click here](https://github.com/ArtmeScienceLab/AnyFashionAttributeEditing)_】
 <br />
 
 
